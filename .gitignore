@@ -1,0 +1,5 @@
+node_modules
+migrations/.ipynb_checkpoints/20210222050518-books-table-checkpoint.js src/.ipynb_checkpoints/database-checkpoint.ts
+.ipynb_checkpoints
+build
+dist
